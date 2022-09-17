@@ -1,0 +1,16 @@
+
+#include <iostream>
+
+using std::cout;
+using std::cin;
+using std::endl;
+
+int main(){
+    
+    int numero1 = 0;
+
+    cout << "Digite um numero inteiro: ";
+    cin >> numero1;
+
+    cout << numero1 << endl;
+}
