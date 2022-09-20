@@ -1,2 +1,2 @@
 #### Guia Básica de C++ 
-info
+info 2
