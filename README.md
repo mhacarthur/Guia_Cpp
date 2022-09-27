@@ -1,2 +1,4 @@
 #### Guia Básica de C++ 
-info 3
+Em desenvolvimento, o material é agregado na wiki:
+
+Website: [https://github.com/mhacarthur/Guia_Cpp/wiki](https://github.com/mhacarthur/Guia_Cpp/wiki)
