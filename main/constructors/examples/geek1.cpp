@@ -9,7 +9,7 @@ class Geeks{
     int id;
     int idlong;
 
-    // Constructor
+    // Default Constructor
     Geeks(){
         cout << "Default Constructor called" << endl;
         id = -1;
